@@ -85,6 +85,7 @@ body {
   text-transform: uppercase;
   font-weight: 700;
   background-image: linear-gradient(to right, #55c57a, #28b485);
+  background-clip: text;
   -webkit-background-clip: text;
   color: transparent; }
   @media (max-width: 56.25em) {
@@ -267,6 +268,7 @@ body {
     margin-bottom: .5rem;
     display: inline-block;
     background-image: linear-gradient(to right, #55c57a, #28b485);
+    background-clip: text;
     -webkit-background-clip: text;
     color: transparent; }
     @media (max-width: 56.25em) {
